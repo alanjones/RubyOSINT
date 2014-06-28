@@ -947,3 +947,4 @@ _catalogs/wp/forms/_vti_cnf/Upload.aspx
 /cgi-bin/supportInstaller?CustFull=true
 /auth.html
 /sslvpnLogin.html
+/php/login.php

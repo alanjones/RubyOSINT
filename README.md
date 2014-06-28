@@ -32,10 +32,10 @@ This is a simple ruby based tool used for OSINT/PenTesting an application. The f
 ### Known Issues
 
 ### Credits
-
 * [@CarnalOwnage](https://twitter.com/carnal0wnage) for the ideas and some of the URL checks
 * [Alex Levinson](https://twitter.com/alexlevinson) for helping with some ruby foo.
-* [@alanjones](https://twitter.com/alanjones) for contributing and helping implement changes
+* [@alanjones](https://twitter.com/alanjones19) for contributing and helping implement changes
+
 ### License
 This code is licensed under the GPLv3. Full text of this can be found in ```LICENSE.txt```
 
